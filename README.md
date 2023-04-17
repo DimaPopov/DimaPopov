@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 #### 📦 Мои проекты
 
-* [Расширение для Народной карты](https://github.com/Dmitry-407/nmaps)
+* [Расширение для Народной карты](https://github.com/Dmitry-407/nmap)
 * [Расширение для Баг-трекера ivi](https://github.com/Dmitry-407/Betatest-ivi-Redmine)
 
 
