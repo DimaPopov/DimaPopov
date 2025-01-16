@@ -5,13 +5,13 @@
 
 🎓 Ментор в программе Наставничества [VK Testers](https://vk.com/testers)<br>
 🌍 Модератор [Народной карты](https://n.maps.yandex.ru/#!/users/demon7010)<br>
-🎮 HTML, CSS, PHP, JavaScirpt _(React, JQuery)_<br>
+⚡ HTML, CSS, PHP, Python, JavaScirpt _(React, TypeScript, JQuery)_<br>
 
 
 #### 📦 Мои проекты
 
-* [Расширение для Народной карты](https://github.com/Dmitry-407/nmap)
-* [Расширение для Баг-трекера ivi](https://github.com/Dmitry-407/Betatest-ivi-Redmine)
+* [Расширение для Народной карты](https://github.com/DimaPopov/nmap)
+* [Расширение для Баг-трекера ivi](https://github.com/DimaPopov/Betatest-ivi-Redmine)
 
 
 #### ☎ Контакты
